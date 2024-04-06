@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Adarshpathak1/frontend-m_social-link-profile]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://661137db19634ed82a18b769--cerulean-monstera-f536e6.netlify.app]
 
 ## My process
 
